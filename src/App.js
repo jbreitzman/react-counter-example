@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import CounterButton from "./components/counterButton/CounterButton";
 import Counter from "./components/counter/Counter";
 import "./App.css";
 
